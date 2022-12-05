@@ -34,7 +34,9 @@
 - Dietitian!2345
 
 
-## https://nutrimental-server.herokuapp.com/
+## https://nutrimental-server.herokuapp.com/ (outdated)
+
+## https://nutrimental.netlify.app/
 ## 
 ## heroku login
 ## heroku git:remote -a nutrimental-server
